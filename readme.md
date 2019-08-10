@@ -20,6 +20,14 @@ To replay the actions recorded, execute the below command
 ```
 python Testing.py
 ```
+## Output
+Record 
+
+![](screenshots/virtual_hand_record.gif)
+
+Replay
+
+![](screenshots/virtual_hand_replay.gif)
 
 ## License
 
