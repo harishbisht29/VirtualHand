@@ -12,6 +12,9 @@ It will record mouse movements and keyboard strokes and store them in mouse and 
 The recording looks like this
 ![](screenshots/mouse.png)
 
+Lets pick one entry to understand its meaning.
+M_MM_(586,0)__155091310.6810498 -- 
+M_MM - Starting M shows its a mouse movement.Second and third MM shoes Mouse Movement followed by coordinates. Trailing decimal number is used to find find.
 
 
 ## License
