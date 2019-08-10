@@ -16,6 +16,10 @@ Lets pick one entry to understand its meaning.
 M_MM_(586,0)__155091310.6810498 -- 
 M_MM - Starting M shows its a mouse movement.Second and third MM shoes Mouse Movement followed by coordinates. Trailing decimal number is used to find find.
 
+To replay the actions recorded, execute the below command
+```
+python Testing.py
+```
 
 ## License
 
