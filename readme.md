@@ -9,7 +9,9 @@ Just run record.py file using
 python record.py
 ```
 It will record mouse movements and keyboard strokes and store them in mouse and keyboard plain files respectively.
-The recording looks like 
+The recording looks like this
+![](screenshots/mouse.PNG)
+
 
 
 ## License
